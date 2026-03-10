@@ -1,0 +1,164 @@
+[
+    {
+        "name": "Selena Gomez",
+        "follower_count": 200000000,
+        "description": "American singer and actress",
+        "country": "United States"
+    },
+    {
+        "name": "Cristiano Ronaldo",
+        "follower_count": 250000000,
+        "description": "Portuguese footballer",
+        "country": "Portugal"
+    },
+    {
+        "name": "Ariana Grande",
+        "follower_count": 220000000,
+        "description": "American singer and actress",
+        "country": "United States"
+    },
+    {
+        "name": "Dwayne Johnson",
+        "follower_count": 180000000,
+        "description": "American actor and former professional wrestler",
+        "country": "United States"
+    },
+    {
+        "name": "Kim Kardashian",
+        "follower_count": 190000000,
+        "description": "American media personality and businesswoman",
+        "country": "United States"
+    },
+    {
+        "name": "Lionel Messi",
+        "follower_count": 210000000,
+        "description": "Argentine footballer",
+        "country": "Argentina"
+    },
+    {
+        "name": "Beyoncé",
+        "follower_count": 170000000,
+        "description": "American singer and actress",
+        "country": "United States"
+    },
+    {
+        "name": "Justin Bieber",
+        "follower_count": 230000000,
+        "description": "Canadian singer and songwriter",
+        "country": "Canada"
+    },
+    {
+        "name": "Taylor Swift",
+        "follower_count": 240000000,
+        "description": "American singer-songwriter",
+        "country": "United States"
+    },
+    {
+        "name": "Kylie Jenner",
+        "follower_count": 210000000,
+        "description": "American media personality and businesswoman",
+        "country": "United States"
+    },
+    {
+        "name": "Neymar Jr.",
+        "follower_count": 190000000,
+        "description": "Brazilian footballer",
+        "country": "Brazil"
+    },
+    {
+        "name": "Kim Kardashian",
+        "follower_count": 190000000,
+        "description": "American media personality and businesswoman",
+        "country": "United States"
+    },
+    {
+        "name": "Kendall Jenner",
+        "follower_count": 180000000,
+        "description": "American model and media personality",
+        "country": "United States"
+    },
+    {
+        "name": "Virat Kohli",
+        "follower_count": 150000000,
+        "description": "Indian cricketer",
+        "country": "India"
+    },
+    {
+        "name": "Shakira",
+        "follower_count": 160000000,
+        "description": "Colombian singer and dancer",
+        "country": "Colombia"
+    },
+    {
+        "name": "Ellen DeGeneres",
+        "follower_count": 140000000,
+        "description": "American comedian and television host",
+        "country": "United States"
+    },
+    {
+        "name": "Rihanna",
+        "follower_count": 200000000,
+        "description": "Barbadian singer and businesswoman",
+        "country": "Barbados"
+    },
+    {
+        "name": "David Beckham",
+        "follower_count": 170000000,
+        "description": "English former professional footballer",
+        "country": "United Kingdom"
+    },
+    {
+        "name": "Lady Gaga",
+        "follower_count": 190000000,
+        "description": "American singer and actress",
+        "country": "United States"
+    },
+    {
+        "name": "Chris Hemsworth",
+        "follower_count": 160000000,
+        "description": "Australian actor",
+        "country": "Australia"
+    },
+    {
+        "name": "Emma Watson",
+        "follower_count": 150000000,
+        "description": "British actress and activist",
+        "country": "United Kingdom"
+    },
+    {
+        "name": "Will Smith",
+        "follower_count": 180000000,
+        "description": "American actor and rapper",
+        "country": "United States"
+    },
+    {
+        "name": "Gal Gadot",
+        "follower_count": 140000000,
+        "description": "Israeli actress and model",
+        "country": "Canada"
+    },
+    {
+        "name": "Brad Pitt",
+        "follower_count": 170000000,
+        "description": "American actor and film producer",
+        "country": "United States"
+    },
+    {
+        "name": "Scarlett Johansson",
+        "follower_count": 160000000,                
+        "description": "American actress and singer",
+        "country": "United States"
+    },
+    {
+        "name": "Leonardo DiCaprio",
+        "follower_count": 150000000,
+        "description": "American actor and film producer",
+        "country": "United States"
+    },
+    {
+        "name": "Jennifer Lawrence",
+        "follower_count": 140000000,        
+        "description": "American actress",
+        "country": "United States"
+    }
+]
